@@ -1,0 +1,15 @@
+$kind: http-request
+name: https://nodejs-hw-40rp.onrender.com/auth/register
+description: ""
+url: https://nodejs-hw-40rp.onrender.com/auth/register
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"email\": \"user1@example.com\",\r
+
+    \  \"password\": \"1234567\"\r
+
+    }"
+order: 1785179350417
